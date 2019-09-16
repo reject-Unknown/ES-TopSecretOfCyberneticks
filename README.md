@@ -1,2 +1,5 @@
 # ES-TopSecretOfCyberneticks
-You know what this story is about ;)
+///////////////////////////////////////////////
+https://steamcommunity.com/sharedfiles/filedetails/?id=690911411
+ТУТ ВСЯ БАЗОВАЯ ИНФОРМАЦИЯ О СОЗДАНИИ МОДА
+//////////////////////////////////////////////
