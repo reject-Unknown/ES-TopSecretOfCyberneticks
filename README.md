@@ -7,3 +7,4 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=690911411
 https://devpractice.ru/git-for-beginners-part-1-what-is-vcs                    
 ГАЙД ПО ГИТУ (ТАМ МИНУТ НА 40 почитай все)                  
 /////////////////////////////////////////////////////////////////////
+https://learngitbranching.js.org/
