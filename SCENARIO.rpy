@@ -1,5 +1,4 @@
 init:
-<<<<<<< HEAD
     $ mods["iailil"]=u"Everlasting Gay Porn"
     $ dnl= Character(u'Даня', color="66FF33", what_color="E2C778",)
     
