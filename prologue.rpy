@@ -126,8 +126,5 @@ label iailil:
     with dissolve2
     un "Здесь должно быть интро.{w} Нам нужно его сделать."
     hide un with dissolve
-    play music music_list["orchid"] fadein 5
-    show unblink
-    show bg int_bus with dissolve
-    "Я проснулся от яркого солнечного света и невыносимой жары."
+    jump day1_begin
     return
