@@ -80,7 +80,7 @@ label day1_no_slavyna:
     play music music_list["that_s_our_madhouse"]
     dvp "Ну и кто привел лешего на территорию лагеря?!"
     "И тут я окончательно пустил корни. {w}Голос был совсем близко, я решил развернуться и..."
-    show blink with dissolve
+    show blink with dissolve2
     show dv smile pioneer2
     hide blink with dissolve
     show unblink
