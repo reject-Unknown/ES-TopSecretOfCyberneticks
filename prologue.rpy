@@ -1,6 +1,7 @@
 init:
     $ mods["iailil"]=u"Everlasting Gay Porn"
     $ dnl= Character(u'Даня', color="66FF33", what_color="E2C778",)
+    image bg MeAndYou = "mods/ES-TopSecretOfCyberneticks/Content/Sy_hxds_kVk.jpg"
    
 label iailil:
     scene anim prolog_1 
